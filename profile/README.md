@@ -13,8 +13,8 @@ Our repositories are primarily public to promote transparency and collaboration 
 
 Each repository contains a detailed README.md outlining:
 
-Purpose & Use Case: What the project is about and who it’s for.
+- Purpose & Use Case: What the project is about and who it’s for.
 
-Contributing Guidelines: How team members can contribute or request changes.
+- Contributing Guidelines: How team members can contribute or request changes.
 
-Setup & Usage Instructions: Steps to get started with the tool or analysis.
+- Setup & Usage Instructions: Steps to get started with the tool or analysis.
